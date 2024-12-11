@@ -3,9 +3,11 @@ Ejercicio del día 8.
 Turnero para comercio.
 Archivo que contiene el main de la app
 """
-from numeros import generador_comercio, mensaje
+
 from time import sleep as zzz
 from os import system
+
+from numeros import generador_comercio, mensaje
 
 def main():
     # Crear generadores para los tres comercios
